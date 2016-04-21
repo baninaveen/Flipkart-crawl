@@ -27,8 +27,8 @@ def prodfind(url):
         for img in soup.find_all(class_ ="productImage"):
 		i = img.get('src')
 		#n = n.replace(',','')
-		print "Image: "," ",i
-		break;
-                
+		print "Image: ",i
+		break
+               
 url = raw_input("Paste flipkart URL here: ")
 prodfind(url)
