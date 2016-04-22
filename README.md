@@ -1,5 +1,5 @@
 # Flipkart-crawl
-Find Price, Product Name, Images from a flipkart link.
+Find Price, Product Name, Images of a product from a flipkart link.
 
 example:
 
